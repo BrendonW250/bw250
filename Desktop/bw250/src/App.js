@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+import logo from '/Users/breezy/Desktop/bw250/src/Brendon.JPG';
 import './App.css';
 
 function App() {
