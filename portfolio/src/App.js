@@ -1,13 +1,17 @@
 import "bootstrap/dist/css/bootstrap.min.css";
 import './App.css';
+import { Aboutme } from "./components/Aboutme";
 import Navbar from "./components/Navbar";
 
 function App() {
   return (
-    <div>
+    <div className="container">
       <Navbar/> 
-      <h1>Brendon's Official Portfolio!!</h1> 
+      <Aboutme/>
+      
     </div>
+
+    
   );
 }
 
