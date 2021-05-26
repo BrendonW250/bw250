@@ -1,0 +1,21 @@
+nav a.nav-link {
+  font-weight: 1000;
+  letter-spacing: 0.1rem;
+  cursor: pointer;
+}
+
+:root {
+  --primary-white: white;
+}
+
+.navbar-nav > li > a {
+  color: var(--primary-white) !important;
+}
+
+body {
+  font-family: 'Times New Roman', Times, serif;
+}
+
+nav ul li {
+  text-transform: uppercase;
+}
