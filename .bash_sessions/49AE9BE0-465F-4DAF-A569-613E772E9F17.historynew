@@ -1,0 +1,16 @@
+git add *
+-f
+git add -f
+git add *
+git commit -m "modified App.js to say {Brendon Wright}" (to make a new git commit)
+git commit -m "modified App.js to say {Brendon Wright}"
+git push -u origin master
+git add *
+git commit -m "edited App.css to stop image spinning"
+git push -u origin master
+git add *
+git commit -m "added my personal image to App.js"
+git push -u origin master
+git add *
+git commit -m "final commit, I will become a React pro"
+git push -u origin master

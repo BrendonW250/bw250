@@ -1,0 +1,9 @@
+echo "# initial-diagnostic-coding-exercises-BrendonW250" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M master
+git remote add origin https://github.com/MyTeaching/initial-diagnostic-coding-exercises-BrendonW250.git
+git push -u origin master
+conda install jupyter
+conda install jupyter

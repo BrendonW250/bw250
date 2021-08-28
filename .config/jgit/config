@@ -1,0 +1,6 @@
+[filesystem "brendons-air.home|Oracle Corporation|13.0.2|/dev/disk0s2"]
+	timestampResolution = 1000 milliseconds
+	minRacyThreshold = 0 nanoseconds
+[filesystem "brendons-air.home|Oracle Corporation|13.0.2|/dev/disk1s1"]
+	timestampResolution = 18000 nanoseconds
+	minRacyThreshold = 0 nanoseconds

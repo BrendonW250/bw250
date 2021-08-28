@@ -1,0 +1,312 @@
+cd
+java -jar Toy.jar name:your_name job:HW_1 +list +xref +trace +run Square.toy > HW1.txt
+java -jar Toy.jar name:your_name job:HW_1 +list +xref +trace +run Square.toy > HW1.txt
+cd
+java -jar Toy.jar name:your_name job:HW_1 +list +xref +trace +run Square.toy > HW1.txt
+N
+4
+n
+java -jar Toy.jar name:your_name job:HW_1 +list +xref +trace +run Square.toy > HW1.txt
+java -jar Toy.jar name:your_name job:HW_1 +list +xref +trace +run Square.toy > HW1.txt
+4
+cd Desktop/CMP334HW1
+cd Desktop/abc
+java -jar Toy.jar name:your_name job:HW_1 +list +xref +trace +run Square.toy > HW1.txt
+java -jar Toy.jar name:your_name job:HW_1 +list +xref +trace +run Square.toy > HW1.txt
+java -jar Toy.jar name:Wright_Brendon job:HW_1 +list +xref +trace +run Square.toy > HW1.txt
+java -jar Toy.jar name:Wright_Brendon job:HW_1 +list +xref +trace +run Square.toy
+java -jar Toy.jar name:your_name job:HW_1 +list +xref +trace +run Square.toy > HW1.txt
+cd Desktop/HW2Folder
+java -jar Toy.jar name:your_name job:HW_2 +list +trace +run InputSum.toy > HW2.txt
+java -jar Toy.jar name:your_name job:HW_2 +list +trace +run InputSum.toy > HW2.txt
+java -jar Toy.jar name:your_name job:HW_2 +list +trace +run InputSum.toy > HW2.txt
+cd
+cd Desktop/HW2Folder
+java -jar Toy.jar name:your_name job:HW_2 +list +trace +run InputSum.toy > HW2.txt
+cd Desktop/123
+cd Desktop/123
+java -jar Toy.jar name:your_name job:HW_2 +list +trace +run InputSum.toy > HW2.txt
+java -jar Toy.jar name:your_name job:HW_2 +list +trace +run InputSum.toy
+java -jar Toy.jar name:your_name job:HW_2 +list +trace +run InputSum.toy
+java -jar Toy.jar name:brendon_wright job:HW_2 +list +trace +run InputSum.toy
+2
+java -jar Toy.jar name:Brendon_Wright job:HW_2 +list +trace +run InputSum.toy
+java -jar Toy.jar name:Brendon_Wright job:HW_2 +list +trace +run InputSum.toy > HW2.txt
+ls
+java -jar Toy.jar name:Brendon_Wright job:HW_2 +list +trace +run InputSum.toy
+java -jar Toy.jar name:Brendon_Wright job:HW_2 +list +trace +run InputSum.toy
+cd/Desktop/123
+cd
+Desktop/123
+cd/chir
+cd
+java -jar Toy.jar name:Brendon_Wright job:HW_2 +list +trace +run InputSum.toy
+cd
+cd/home/Brendon/Desktop
+cd/breezy$/Desktop
+java -jar Toy.jar +run MAX4.toy MAX4.dos
+cd
+java -jar Toy.jar +run MAX4driver.toy MAX4.dos
+$SHELL
+ls -lR <project_dir_name> > old_permissions.txt
+ls -lR <project_dir_name> old_permissions.txt
+ls -lR <project_dir_name> HW5.txt
+cd
+cd /Desktop/HW5
+cd/Desktop
+cd Desktop
+java -jar Toy.jar name:[your_name] job:HW_5 +list +xref +trace +run MAX4driver.toy [your_file] 1> HW5.txt
+java -jar Toy.jar name:[your_name] job:HW_5 +list +xref +trace +run MAX4driver.toy [your_file] 1> HW5.txt
+/Applications/Python\ 3.8/Install\ Certificates.command ; exit;
+npm install expo-cli - -global
+expo init myproject
+code .
+npm install expo-cli --global
+sudo npm install expo-cli --global
+expo init my-new-project
+cd my-new-project
+code .
+sudo code .
+code.
+sudo code.
+npm start
+expo start
+expo start
+expo start
+expo init MaskApp
+expo start
+npm start
+expo init N95
+expo start
+expo start
+expo start
+expo init final
+expo start
+expo init maskup
+expo start
+npm start
+open -t .bash_profile
+mysql -u root -p
+mysql -u root -p
+expo start
+node index.js
+node index.js
+node --version
+node index.js
+pwd
+node index.js
+node index.js
+node index.js
+node index.js
+node index.js
+node index.js
+node index.js
+node index.js
+node index.js
+node Day_2.js
+node inde.js
+node index.js
+node Day_2.js
+node Day_2.js
+node Day_2.js
+node Day_2.js
+node Day_2.js
+node Day_2.js
+node Day_2.js
+node functions.js
+node functions.js
+node functions.js
+node functions.js
+node functions.js
+mysql -u root -p
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+$ brew install git
+brew install git
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+% brew -v
+brew -v
+brew install git
+git version
+node
+npx --version
+node --version
+cd ~
+cd ~
+mkdir ctp
+cd ctp
+create-react-app learn-react-1
+npx create-react-app learn-react-1
+cd learn-react-1
+npm start
+cd zip-code-react-lab/zip-search
+npm install
+npm start
+npx create-react-app BrendonW250.github.io
+npx create-react-app brendonw250
+npx create-react-app brendonw250.github.io
+cd brendonw250.github.io
+ls
+npm start
+git status
+git remote add origingit@github.com:BrendonW250/brendonw250.git
+git push -u origin master
+git status
+git remote add origin
+git push -u origin master
+git remote add origin
+git push -u origin master
+git remote add origin git@github.com:BrendonW250/brendonw250.github.io.git
+git push -u origin master
+git@github.com:BrendonW250/brendonw250.github.io.git
+echo "# brendonw250.github.io" >> READ.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin git@github.com:BrendonW250/brendonw250.github.io.git
+git push -u origin main
+git status
+git log
+git fetch
+cd ~/Desktop
+npm version
+git --version
+npm create-react-app brendonw250.github.io
+cd brendonw250.github.io
+npm start
+npx create-react-app brendonw250.github.io
+cd ~/brendonw250.github.io
+npm start
+cd brendonw250.github.io
+npm start
+git status
+git status
+git shortlog
+hw1
+cd brendonw250.github.io
+cd ~/brendonw250.github.io
+git status
+cd ~/Desktop
+npm --version
+git --version
+npx create-react-app hw1
+cd hw1
+npm start
+cd hw1
+git remote add origin git@github.com:BrendonW250/hw1.git
+git push -u origin master
+cd 
+git remote add origin git@github.com:BrendonW250/brendonw250.github.io.git
+git branch -M main
+git push -u origin main
+git push -u origin master
+git remote add origin git@github.com:BrendonW250/brendonw250.github.io.git
+git branch -M main
+git push -u origin main
+npm --version
+git remote add origin git@github.com:BrendonW250/brendonw250.github.io.git
+git branch -M master
+git push -u origin master
+git branch
+git remote -v
+git remote remove origin
+git remote add origin git@github.com:BrendonW250/brendonw250.github.io.git
+git branch -M master
+git push -u origin master
+git remote -v
+git branch -M master
+git push -u origin master
+git remote remove origin
+git remote add origin https://github.com/BrendonW250/brendonw250.github.io.git
+git branch -M master
+git push -u origin master
+git push -u origin master
+ls
+cd ~/Desktop
+npx create-react-app test
+cd ~/Desktop
+git --version
+npx create-react-app brendonw250.github.io
+cd brendonw250.github.io
+npm start
+git remote add origin git@github.com:BrendonW250/brendonw250.github.io.git
+git branch -M main
+git push -u origin main
+git remote remove origin 
+cd ~/Desktop
+npx create-react-app bw250
+cd bw250
+git remote add origin https://github.com/BrendonW250/bw250.git
+git branch
+git branch -M master
+git push -u origin master
+git status
+cd ..
+git status
+rm -r .git
+cd ..
+git status
+cd ..
+git status
+cd Desktop/bw250
+cd ~/Desktop/bw250
+ls -a
+git show
+ls -a
+git show
+cat README.md
+git add .
+git status
+git commit -m "Initialize project using Create React App"
+git push -u origin master
+npm start
+cd zip-search
+npm install
+npm start
+npx create-react-app demo
+cd demo
+npm start
+cd Desktop
+cd 3/8_464
+3/8_464
+cd Desktop/3/8_464
+cd March_8_464
+npx create-react-app componentex
+cd componentex
+npm start
+npx create-react-app march_10
+cd Desktop
+cd march_10
+cd march_10
+cd
+cd march_10
+npm start
+npm install --save express
+ls
+npm start
+npm start
+node app.js
+node app.js
+npm install --save-dev nodmon
+cd Desktop
+cd Practice_JS
+node amit.js
+cd Desktop
+cd/Desktop
+cd Practice_JS
+cd Desktop
+cd Practice_JS
+node amit.js
+node March_14.js
+cd Desktop
+cd Desktop
+cd ctp21
+git clone https://github.com/CUNYTechPrep/zip-code-api-lab.git
+ls
+cd zip-code-api-lab
+ls
+mkdir hello-world
+cd hello-world
+ls
+npm init
+ls

@@ -1,0 +1,5 @@
+cd Desktop
+cd 464-hw3
+git clone https://github.com/nickmo12/design-pad.git
+git clone https://github.com/nickmo12/design-pad.git
+npm install

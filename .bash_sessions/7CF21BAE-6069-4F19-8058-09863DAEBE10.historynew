@@ -1,0 +1,10 @@
+mkdir src/components/Dashboard
+npm install mobx --save
+npm mobx react --save
+ls
+yarn add mobx-react mobx-persist mobx mobx-react-form validatorjs valid-url
+yarn add mobx-react
+add mobx-react
+yarn add
+yarn add mobx-react
+npm install mobx-react --save

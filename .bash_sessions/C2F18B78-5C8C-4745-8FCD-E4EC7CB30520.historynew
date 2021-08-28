@@ -1,0 +1,7 @@
+cd Desktop
+cd Practice_JS
+npx create-react-app basicJS
+npx create-react-app basic_js
+cd basic_js
+npm start
+npm start

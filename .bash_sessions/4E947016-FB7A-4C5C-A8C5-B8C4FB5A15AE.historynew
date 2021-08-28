@@ -1,0 +1,6 @@
+npm install @auth0/auth0-react
+npm start
+npm install react-icons --save
+npm start
+npm add @auth0/auth0-react
+npm start
